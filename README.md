@@ -1,2 +1,2 @@
 # prueba
-Prueba de creación de repo
+Prueba de creación de repositorio
